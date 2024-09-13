@@ -1,0 +1,21 @@
+/* styles.css */
+
+.alert-text,
+.read-text {
+    background-color: hsl(0, 51%, 57%);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .read-text
+  {
+    font-size: 24px;
+  }
+  #title {
+    color: hsl(240, 100%, 50%);
+    font-size: 32px;
+  }
+  #hova {
+    background-color: hsl(120, 43%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
